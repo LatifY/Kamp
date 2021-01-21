@@ -1,0 +1,12 @@
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Kamp\bin\Debug\netcoreapp3.1\MyDictionary.exe
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Kamp\bin\Debug\netcoreapp3.1\MyDictionary.deps.json
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Kamp\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.json
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Kamp\bin\Debug\netcoreapp3.1\MyDictionary.runtimeconfig.dev.json
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Kamp\bin\Debug\netcoreapp3.1\MyDictionary.dll
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Kamp\bin\Debug\netcoreapp3.1\MyDictionary.pdb
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Kamp\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfoInputs.cache
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Kamp\obj\Debug\netcoreapp3.1\MyDictionary.AssemblyInfo.cs
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Kamp\obj\Debug\netcoreapp3.1\MyDictionary.csproj.CoreCompileInputs.cache
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Kamp\obj\Debug\netcoreapp3.1\MyDictionary.dll
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Kamp\obj\Debug\netcoreapp3.1\MyDictionary.pdb
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Kamp\obj\Debug\netcoreapp3.1\MyDictionary.genruntimeconfig.cache
