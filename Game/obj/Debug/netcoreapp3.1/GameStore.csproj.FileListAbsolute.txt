@@ -1,0 +1,13 @@
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\bin\Debug\netcoreapp3.1\GameStore.exe
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\bin\Debug\netcoreapp3.1\GameStore.deps.json
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\bin\Debug\netcoreapp3.1\GameStore.runtimeconfig.json
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\bin\Debug\netcoreapp3.1\GameStore.runtimeconfig.dev.json
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\bin\Debug\netcoreapp3.1\GameStore.dll
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\bin\Debug\netcoreapp3.1\GameStore.pdb
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\obj\Debug\netcoreapp3.1\GameStore.csprojAssemblyReference.cache
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\obj\Debug\netcoreapp3.1\GameStore.AssemblyInfoInputs.cache
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\obj\Debug\netcoreapp3.1\GameStore.AssemblyInfo.cs
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\obj\Debug\netcoreapp3.1\GameStore.csproj.CoreCompileInputs.cache
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\obj\Debug\netcoreapp3.1\GameStore.dll
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\obj\Debug\netcoreapp3.1\GameStore.pdb
+C:\Users\alati\Desktop\Dev\C#Dev\Kamp\Game\obj\Debug\netcoreapp3.1\GameStore.genruntimeconfig.cache
